@@ -3,7 +3,7 @@
 ## Project Overview  
 This project analyzes **HR data** using Excel to provide key insights into employee salaries, department-wise distributions, gender-based earnings, and workforce trends. The Excel file includes **various formulas and functions** used to extract meaningful business insights.  
 
-# 2. **Essential Excel Functions for Data Analysis**
+## **Essential Excel Functions for Data Analysis**
 
 This is an **Excel file** where I practiced some **essential Excel functions and formulas**. It includes common formulas used for basic calculations, lookup and reference, conditional counting, summing, filtering, and data organization and visualization required for data analysis tasks.  
 
@@ -243,7 +243,7 @@ This analysis calculates the median salary and the female ratio across the entir
 
 This is useful for anyone learning **Data Analysis in Excel**.
 
-# 3. **Excel Case Study Questions Solving**
+## **Excel Case Study Questions Solving**
 
 This file [Download File](https://github.com/Sofiya-Banmala/Excel-Project/blob/main/Excel_Interview_Practice.xlsx) contains multiple case studies and challenges designed to practice Excel formulas and data analysis techniques using sample datasets.
 
@@ -304,6 +304,6 @@ This file [Download File](https://github.com/Sofiya-Banmala/Excel-Project/blob/m
 
 ## Why This is Important?  
 This project is valuable for aspiring **Data Analysts, Business Analysts, and Excel Experts**. It enhances skills in:  
-**Data-Driven Decision Making**  
-**Excel Automation & Analysis**  
-**Visualization & Dashboarding**  
+- **Data-Driven Decision Making**  
+- **Excel Automation & Analysis**  
+- **Visualization & Dashboarding**  
